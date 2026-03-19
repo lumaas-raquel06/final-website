@@ -1,15 +1,15 @@
 # Final Website Project
 
 ## 🌐 Live Website
-(Paste your GitHub Pages link here)
+https://yourusername.github.io/final-website/
 
-## 💻 Repository
-(Paste your GitHub repo link here)
+## 💻 GitHub Repository
+https://github.com/yourusername/final-website
 
 ## 📌 Description
-This is my final project website created using HTML, CSS, and JavaScript.
+This project is a responsive website created using HTML and CSS.
 
 ## ✨ Features
 - Responsive design
-- Simple navigation
-- Interactive button
+- Clean UI
+- Accessible layout
