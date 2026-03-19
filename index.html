@@ -4,6 +4,7 @@
   <meta charset="UTF-8">
   <title>Laundry Management System</title>
   <link rel="stylesheet" href="css/style.css">
+  <script src="script.js"></script>
 </head>
 <body>
   <header>
@@ -16,25 +17,41 @@
     </nav>
   </header>
 
-  <main>
-    <section class="intro">
-      <h2>Welcome to Our Laundry Service</h2>
-      <p>Manage laundry orders, track status, and provide efficient service for customers.</p>
-    </section>
+  <!-- Hero Section -->
+  <section class="hero">
+    <h2>Fast & Reliable Laundry Service</h2>
+    <p>Track orders, manage customers, and simplify your laundry business.</p>
+    <button onclick="showMessage()">Get Started</button>
+  </section>
 
-    <section class="features">
-      <h2>Features</h2>
-      <ul>
-        <li>Customer Registration</li>
-        <li>Order Tracking</li>
-        <li>Service Pricing</li>
-        <li>Reports & Analytics</li>
-      </ul>
-    </section>
-  </main>
+  <!-- Features Section -->
+  <section class="features">
+    <div class="card">
+      <h3>Customer Registration</h3>
+      <p>Quickly add and manage customers.</p>
+    </div>
+    <div class="card">
+      <h3>Order Tracking</h3>
+      <p>Monitor laundry status in real-time.</p>
+    </div>
+    <div class="card">
+      <h3>Service Pricing</h3>
+      <p>Transparent and customizable rates.</p>
+    </div>
+    <div class="card">
+      <h3>Reports & Analytics</h3>
+      <p>Generate insights for better decisions.</p>
+    </div>
+  </section>
 
+  <!-- Footer -->
   <footer>
     <p>&copy; 2026 Laundry Management System</p>
+    <div class="social">
+      <a href="#">Facebook</a> |
+      <a href="#">Twitter</a> |
+      <a href="#">Instagram</a>
+    </div>
   </footer>
 </body>
 </html>
