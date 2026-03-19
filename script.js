@@ -1,3 +1,3 @@
 function showMessage() {
-    alert("Hello! Thanks for visiting my website 😊");
+    alert("Hello! Thanks for visiting our Laundry Management System 😊");
 }
