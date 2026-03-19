@@ -1,10 +1,10 @@
 # Final Website Project
 
 ## 🌐 Live Website
-https://yourusername.github.io/final-website/
+https://anonymous.github.io/final-website/
 
 ## 💻 GitHub Repository
-https://github.com/yourusername/final-website
+https://github.com/anonymous/final-website
 
 ## 📌 Description
 This project is a responsive website created using HTML and CSS.
